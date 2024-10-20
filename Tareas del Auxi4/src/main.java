@@ -3,7 +3,7 @@ public class main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		CartaNormal cartanormal = new CartaNormal(7 , "Fresco");
-		cartanormal.jugar();
+		cartanormal.mostrarCarta();
 		cartanormal.joker();
 		CartaEspecial cartaespecial = new CartaEspecial(9, "Fhis");
 		cartaespecial.realizarAccion();

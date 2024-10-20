@@ -10,5 +10,4 @@ public abstract class Carta {
     public void mostrarCarta() {
     	System.out.println(Valor + Palo);
     }
-    
 }
